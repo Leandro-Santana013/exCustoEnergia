@@ -1,0 +1,15 @@
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\obj\Debug\net9.0\exCustoEnergia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\obj\Debug\net9.0\exCustoEnergia.AssemblyInfoInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\obj\Debug\net9.0\exCustoEnergia.AssemblyInfo.cs
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\obj\Debug\net9.0\exCustoEnergia.csproj.CoreCompileInputs.cache
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\obj\Debug\net9.0\exCustoEnergia.sourcelink.json
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\bin\Debug\net9.0\exCustoEnergia.exe
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\bin\Debug\net9.0\exCustoEnergia.deps.json
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\bin\Debug\net9.0\exCustoEnergia.runtimeconfig.json
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\bin\Debug\net9.0\exCustoEnergia.dll
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\bin\Debug\net9.0\exCustoEnergia.pdb
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\obj\Debug\net9.0\exCustoEnergia.dll
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\obj\Debug\net9.0\refint\exCustoEnergia.dll
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\obj\Debug\net9.0\exCustoEnergia.pdb
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\obj\Debug\net9.0\exCustoEnergia.genruntimeconfig.cache
+C:\Users\ls139\Desktop\listas de lógica\exCustoEnergia\obj\Debug\net9.0\ref\exCustoEnergia.dll
