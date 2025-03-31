@@ -2,10 +2,10 @@
 double custoestimado = 0, consumoEnergia = 0, tempoUsoDiario = 0;
 
 Console.Write("Digite consumo de energia do seu equipamento (em kWh/mês): "); 
-consumoEnergia = double.Parse(Console.ReadLine());
+consumoEnergia = double.Parse(Console.ReadLine()!);
 
 Console.Write("Tempo de uso diário (h): ");
-tempoUsoDiario = double.Parse(Console.ReadLine());
+tempoUsoDiario = double.Parse(Console.ReadLine()!);
 
 custoestimado = consumoEnergia * tempoUsoDiario *  0.62258;
 
